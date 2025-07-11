@@ -52,17 +52,6 @@ Licença
 Este projeto está licenciado sob a Licença MIT. Consulte o arquivo LICENSE para mais detalhes.
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------
-Contato
-----------------------------------------------------------------------------------------------------------------------------------------------------
-Se tiver dúvidas ou precisar de suporte, entre em contato:
+## 👨‍💻 Sobre minha participação
 
-Nome: Leandro Silva Sampaio
-
-Telefone (Whatsapp): +55 11 98557-0037
-
-Email: Leandro_sampaio.dasilva1@outlook.com 
-
-LinkedIn: https://www.linkedin.com/in/leandro-sampaio-66248b230/ 
-
-Portifólio web: https://leandrosampaio7.github.io/webpage/index
-
+Participei do desenvolvimento como colaborador júnior, contribuindo com a estrutura HTML, organização dos estilos em CSS, responsividade, e integração com os elementos da interface em JavaScript.
